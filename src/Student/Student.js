@@ -4,7 +4,7 @@ const Student = ({id , name, image, email}) => {
     return (
         <div className="card h-120 shadow-lg">
             <div className="card-body">
-                <div className="text-center p-5">
+                <div className="text-center p-5 background-color">
                     <h5 className="card-title">{name}</h5>
                     <br />
                     <div>

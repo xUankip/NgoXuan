@@ -1,0 +1,15 @@
+.card {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+  p {
+    font-style: italic;
+    font-weight: 30px;
+  }
+  img{
+    border-radius: 50%;
+    width: auto;
+    height: auto;
+  }
